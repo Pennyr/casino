@@ -1,3 +1,5 @@
-# casino-fe
-Creating a frontend for a generic casino
-test
+# Casino
+This project will be the building of an open source casino platform.
+
+
+---

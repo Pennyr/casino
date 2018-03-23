@@ -30,3 +30,5 @@ D:\Code\Side Project\Casino\managment_service\obj\Debug\managment_service.csproj
 D:\Code\Side Project\Casino\managment_service\obj\Debug\managment_service.Migrations.InitialMigration.resources
 D:\Code\Side Project\Casino\managment_service\obj\Debug\managment_service.csproj.GenerateResource.Cache
 D:\Code\Side Project\Casino\managment_service\obj\Debug\managment_service.Migrations.RemovingAgeLimitfromcountries.resources
+D:\Code\Side Projects\Casino\managment_service\obj\Debug\managment_service.csprojResolveAssemblyReference.cache
+D:\Code\Side Projects\Casino\managment_service\obj\Debug\managment_service.csproj.CoreCompileInputs.cache
