@@ -11,7 +11,7 @@ namespace managment_service.Controllers
         public string Index(Model data)
         {
             Manager manager = new Manager();
-            manager.Insert(data);
+            manager.Create(data);
 
             return "success";
         }

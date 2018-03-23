@@ -125,7 +125,7 @@
     <Folder Include="App_Data\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\core_manager\core_manager\core_manager.csproj">
+    <ProjectReference Include="..\core_manager\core_manager.csproj">
       <Project>{357e7aca-6ed4-49e7-9c27-5dc42484d318}</Project>
       <Name>core_manager</Name>
     </ProjectReference>

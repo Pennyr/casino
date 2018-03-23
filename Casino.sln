@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "managment_service", "managment_service\managment_service.csproj", "{CAC65206-6CA4-4DB5-8865-9BD56163960D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core_manager", "core_manager\core_manager\core_manager.csproj", "{357E7ACA-6ED4-49E7-9C27-5DC42484D318}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "core_manager", "core_manager\core_manager.csproj", "{357E7ACA-6ED4-49E7-9C27-5DC42484D318}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
